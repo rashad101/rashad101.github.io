@@ -2,7 +2,7 @@
 main:
 
   - title: "Blog Posts"
-    url: /posts/
+    url: /blog/
   - title: "Publications"
     url: /publications/    
   - title: "CV"
