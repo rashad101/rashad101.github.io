@@ -3,7 +3,7 @@ permalink: /
 title: "Blog"
 author_profile: true
 redirect_from: 
-  - /blog/
-  - /blog.html
+  - /blogs/
+  - /blogs.html
 ---
 ### Blog Title
