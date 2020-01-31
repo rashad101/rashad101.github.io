@@ -82,21 +82,21 @@ analytics:
 author:
   name             : "Md Rashad Al Hasan Rony"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Deep Learning, Natural Language Processing, Conversational AI"
   location         : "Bonn, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=SsHJN0sAAAAJ&hl=en"
   email            : "rah.rony@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "searchgate.net/profile/Md_Rashad_Al_Hasan_Rony" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/ronyh2o"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/rashad101"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,10 +106,10 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/6561064/md-rashad-al-hasan-rony"# http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "rashad_al_hasan"
   vine             :
   weibo            :
   xing             :
@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # Defaults
@@ -236,14 +236,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#   # _talks
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: talk
+#       author_profile: true
+#       share: true
 
 # Sass/SCSS
 sass:
